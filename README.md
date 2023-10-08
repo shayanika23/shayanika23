@@ -22,7 +22,7 @@
 	
  ```
 
-- Reach me **debjitnaskar@icloud.com**
+- Reach me **shayanika23@gmail.com**
 
 
 
