@@ -17,8 +17,7 @@
     
     
 	
-	def Ambitions():
-		i don't have any ambitions i just enjoy being a careless()
+	
 	
  ```
 
