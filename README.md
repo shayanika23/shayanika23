@@ -11,8 +11,8 @@
 ```python
   class WhoAmI:
     user = 'shayanika23'
-    current_edu = "unknown"
-    currently_learning = "to live life"
+    current_edu = "CS Undergrad"
+    
     
     
 	
@@ -34,6 +34,4 @@
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shayanika23&show_icons=true&locale=en&layout=compact&theme=great-gatsby&hide_border=true" alt="shayanika23" />
 </div>
-<div align=center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanika23&theme=great-gatsby&hide_border=true" alt="captain-n3m0" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shayanika23&show_icons=true&locale=en&theme=great-gatsby&hide_border=true" alt="shayanika23" />
-</div>
+
